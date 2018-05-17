@@ -65,7 +65,7 @@ _Libraries and frameworks._
 * [Flare3D](https://www.patreon.com/arieln) - Javascript 3D engine.
 
 ### Operating Systems
-_Operating Systems and Linux distribution._
+_Operating Systems and Linux distributions._
 
 * [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 * [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
