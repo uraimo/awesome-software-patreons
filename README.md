@@ -53,6 +53,7 @@ _Projects released with an opensource license._
 * [Parinfer](https://www.patreon.com/shaunlebron) - Clojure editor plugin.
 * [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 * [Oni](https://www.patreon.com/onivim) - Modal code editor.
+* [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 
 ### Libraries 
 _Libraries and frameworks._
@@ -61,6 +62,7 @@ _Libraries and frameworks._
 * [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 * [Musl libc](https://www.patreon.com/musl) - The Musl libc project. 
 * [Zappa](https://www.patreon.com/zappa) - A server-less Python framework. 
+* [Flare3D](https://www.patreon.com/arieln) - Javascript 3D engine.
 
 ### Operating Systems
 _Operating Systems and Linux distribution._
@@ -108,7 +110,9 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA, other software tooling.
 * [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 * [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock Controller and others. 
-* [Scarlett Clark](https://www.patreon.com/sgclark) - KDE Contributor. 
+* [Scarlett Clark](https://www.patreon.com/sgclark) - KDE Contributor.
+* [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
+* [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless opensource projects.
  
 
 ## Other kinds of content
@@ -119,10 +123,15 @@ _Articles, videos, podcasts, etc..._
 * [Modocache](https://www.patreon.com/modocache) - LLVM/Swift related articles. 
 * [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
 * [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids. 
+* [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
+* [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
+* [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
 
 ### Videos
 
-* [Zer0Mem0ry](https://www.patreon.com/Zer0Mem0ry) - Programming and security videos. 
+* [The Coding Train](https://www.patreon.com/codingtrain) - Programming tutorials.
+* [Zer0Mem0ry](https://www.patreon.com/Zer0Mem0ry) - Programming and security videos.
+* [ThreatWire](https://www.patreon.com/ThreatWire) - Hak5 security show.
 
 ### Podcasts
 
@@ -132,6 +141,7 @@ _Articles, videos, podcasts, etc..._
 * [The Debug Log](https://www.patreon.com/thedebuglog) - Game development. 
 * [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 * [The Elixir Fountain](https://www.patreon.com/elixirfountain) - Elixir news. 
+* [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 
 ### Newsletters
 
