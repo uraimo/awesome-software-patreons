@@ -63,6 +63,7 @@ _Operating Systems and Linux distribution._
 
 * [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 * [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
+* [LineageOS](https://www.paypal.me/LineageOS) - Fork of CyanogenMod. 
 * [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 * [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant. 
 * [Solus](https://www.patreon.com/solus) - Linux distribution. 
