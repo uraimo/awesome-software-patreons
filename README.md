@@ -113,6 +113,7 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Scarlett Clark](https://www.patreon.com/sgclark) - KDE Contributor.
 * [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 * [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless opensource projects.
+* [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
  
 
 ## Other kinds of content
@@ -131,7 +132,10 @@ _Articles, videos, podcasts, etc..._
 
 * [The Coding Train](https://www.patreon.com/codingtrain) - Programming tutorials.
 * [Zer0Mem0ry](https://www.patreon.com/Zer0Mem0ry) - Programming and security videos.
+* [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
 * [ThreatWire](https://www.patreon.com/ThreatWire) - Hak5 security show.
+* [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
+
 
 ### Podcasts
 
