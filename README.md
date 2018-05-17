@@ -28,6 +28,7 @@ _Projects released with an opensource license._
 
 * [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem. 
 * [iTerm2](https://www.patreon.com/gnachman) - iTerm2. 
+* [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 * [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Compiler Explorer. 
 * [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D Engine. 
 * [GIMP](https://www.patreon.com/pippin) - Øyvind Kolås, lead developer of GIMP. 
@@ -48,7 +49,10 @@ _Projects released with an opensource license._
 * [Thirthy Bees](https://www.patreon.com/thirtybees) - ECommerce software. 
 * [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 * [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
-* [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform. 
+* [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
+* [Parinfer](https://www.patreon.com/shaunlebron) - Clojure editor plugin.
+* [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
+* [Oni](https://www.patreon.com/onivim) - Modal code editor.
 
 ### Libraries 
 _Libraries and frameworks._
@@ -92,6 +96,7 @@ _Games and game-related projects._
 ## People Doing Opensource Work
 _Developers contributing to multiple projects that ask to support their work._
 
+* [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 * [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 * [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape. 
 * [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - iOS/macOS software. 
