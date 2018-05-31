@@ -115,6 +115,7 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless opensource projects.
 * [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 * [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
+* [Egoist](https://www.patreon.com/egoist/overview) - Various Javascript libraries and tools.
  
 
 ## Other kinds of content
