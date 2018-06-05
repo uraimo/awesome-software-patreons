@@ -54,6 +54,12 @@ _Projects released with an opensource license._
 * [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 * [Oni](https://www.patreon.com/onivim) - Modal code editor.
 * [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
+* [Flarum](https://www.patreon.com/flarum) - Forum platform.
+* [OMP](https://www.patreon.com/openmusicplayer) - Music player.
+* [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
+* [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
+* [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
+* [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 
 ### Libraries 
 _Libraries and frameworks._
@@ -63,6 +69,8 @@ _Libraries and frameworks._
 * [Musl libc](https://www.patreon.com/musl) - The Musl libc project. 
 * [Zappa](https://www.patreon.com/zappa) - A server-less Python framework. 
 * [Flare3D](https://www.patreon.com/arieln) - Javascript 3D engine.
+* [Yii framework](https://www.patreon.com/samdark) - PHP Framework.
+* [Babel](https://www.patreon.com/henryzhu) - Javascript compiler.
 
 ### Operating Systems
 _Operating Systems and Linux distributions._
@@ -116,7 +124,10 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 * [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 * [Egoist](https://www.patreon.com/egoist/overview) - Various Javascript libraries and tools.
- 
+* [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
+* [Ferros](https://www.patreon.com/feross) - Webtorrent, StandardJS and othe Javascript projects.
+* [Mathias Buus](https://www.patreon.com/mafintosh) - Various Javascript modules.
+
 
 ## Other kinds of content
 _Articles, videos, podcasts, etc..._
@@ -160,5 +171,8 @@ _Hardware-related projects and makers._
 * [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 * [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
 * [Jantje](https://www.patreon.com/jantje) - Sloeber plugin and Arduino videos.
-* [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects. 
+* [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
+* [Espruino](https://www.patreon.com/espruino) - Javascript interpreter for microcontrollers.
+* [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
+* [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 
