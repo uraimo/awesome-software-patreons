@@ -71,6 +71,7 @@ _Libraries and frameworks._
 * [Flare3D](https://www.patreon.com/arieln) - Javascript 3D engine.
 * [Yii framework](https://www.patreon.com/samdark) - PHP Framework.
 * [Babel](https://www.patreon.com/henryzhu) - Javascript compiler.
+* [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
 
 ### Operating Systems
 _Operating Systems and Linux distributions._
