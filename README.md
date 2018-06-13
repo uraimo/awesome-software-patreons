@@ -82,7 +82,6 @@ _Operating Systems and Linux distributions._
 * [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 * [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant. 
 * [Solus](https://www.patreon.com/solus) - Linux distribution. 
-* [Copperhead OS](https://www.patreon.com/copperheadOS) - Android distribution. 
 * [Void Linux](https://www.patreon.com/xtraeme) - Linux distribution.
 
 ### Bots
