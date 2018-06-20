@@ -106,6 +106,7 @@ _Games and game-related projects._
 ## People Doing Opensource Work
 _Developers contributing to multiple projects that ask to support their work._
 
+* [Patrick Wardle](https://www.patreon.com/objective_see) - Objective-See, various mac security tools and articles.
 * [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 * [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 * [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape. 
