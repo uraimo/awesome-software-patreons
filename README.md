@@ -2,10 +2,6 @@
 
 > A curated list of awesome programmers and software-related Patreon accounts.
 
-### Contributing
-
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
-
 
 ### Contents
 
@@ -21,6 +17,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/ura
   - [Podcasts](#podcasta)
   - [Newsletters](#newsletters)
 - [Hardware related](#hardware-related)
+
 
 
 ## Open Source Projects
@@ -176,4 +173,14 @@ _Hardware-related projects and makers._
 * [Espruino](https://www.patreon.com/espruino) - Javascript interpreter for microcontrollers.
 * [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 * [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
+
+
+## Contributing
+
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+
+
+## License
+
+This list adopts a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
