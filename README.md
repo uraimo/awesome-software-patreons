@@ -125,6 +125,7 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 * [Ferros](https://www.patreon.com/feross) - Webtorrent, StandardJS and othe Javascript projects.
 * [Mathias Buus](https://www.patreon.com/mafintosh) - Various Javascript modules.
+* [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 
 
 ## Other kinds of content
