@@ -2,6 +2,7 @@
 
 > A curated list of awesome programmers and software-related Patreon accounts.
 
+Help individual programmers or open source projects funding the development of your favorite software subscribing to their Patreon accounts. A tangible way to give back to the open source community.
 
 ### Contents
 
