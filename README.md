@@ -72,6 +72,7 @@ _Libraries and frameworks._
 * [Yii framework](https://www.patreon.com/samdark) - PHP framework.
 * [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 * [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
+* [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 
 ### Operating Systems
 _Operating Systems and Linux distributions._
