@@ -5,12 +5,12 @@
 
 ### Contents
 
-- [Opensource Projects](#opensource-projects)
+- [Open Source Projects](#open-source-projects)
   - [Libraries](#libraries) 
   - [Operating Systems](#operating-system)
   - [Bots](#bots)
   - [Games](#games)
-- [People Doing Opensource Work](#people-doing-opensource-work)
+- [People Doing Open Source Work](#people-doing-open-source-work)
 - [Other Kinds of Content](#other-kinds-of-content)
   - [Articles and Tutorials](#articles-and-tutorials)
   - [Videos](#videos)
@@ -21,29 +21,29 @@
 
 
 ## Open Source Projects
-_Projects released with an opensource license._
+_Projects released with an open source license._
 
 * [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem. 
-* [iTerm2](https://www.patreon.com/gnachman) - iTerm2. 
+* [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement. 
 * [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
-* [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Compiler Explorer. 
-* [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D Engine. 
-* [GIMP](https://www.patreon.com/pippin) - Øyvind Kolås, lead developer of GIMP. 
+* [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
+* [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
+* [GIMP](https://www.patreon.com/pippin) - Øyvind Kolås, lead developer of the GIMP graphics editor. 
 * [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
-* [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu Email Client. 
-* [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D Combat tracker. 
-* [Kismet](https://www.patreon.com/kismetwireless) - Kismet Wireless Tool. 
+* [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
+* [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
+* [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool. 
 * [Termux](https://www.patreon.com/termux) - Android terminal emulator. 
 * [Mastodon](https://www.patreon.com/mastodon) - Federated social network server. 
 * [FreeCAD](https://www.patreon.com/yorikvanhavre) - Yorik van Havre, FreeCAD contributor. 
 * [PulseAudio](https://www.patreon.com/tanuk) - Tanu Kaskinen, PulseAudio audio editor lead developer. 
-* [Tiled](https://www.patreon.com/bjorn) - a 2D game level editor. 
+* [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
 * [OpenShot](https://www.patreon.com/openshot) - Video editor.
-* [Deluge](https://www.patreon.com/deluge_cas) - Bittorrent client. 
+* [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
 * [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 * [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 * [postActiv](https://www.patreon.com/postActiv) - Microblogging platform. 
-* [Thirthy Bees](https://www.patreon.com/thirtybees) - ECommerce software. 
+* [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
 * [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 * [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
 * [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
@@ -65,9 +65,9 @@ _Libraries and frameworks._
 * [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 * [Musl libc](https://www.patreon.com/musl) - The Musl libc project. 
 * [Zappa](https://www.patreon.com/zappa) - A server-less Python framework. 
-* [Flare3D](https://www.patreon.com/arieln) - Javascript 3D engine.
-* [Yii framework](https://www.patreon.com/samdark) - PHP Framework.
-* [Babel](https://www.patreon.com/henryzhu) - Javascript compiler.
+* [Flare3D](https://www.patreon.com/arieln) - JavaScript 3D engine.
+* [Yii framework](https://www.patreon.com/samdark) - PHP framework.
+* [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 * [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
 
 ### Operating Systems
@@ -90,41 +90,41 @@ _Bots!_
 ### Games
 _Games and game-related projects._
 
-* [CEMU](https://www.patreon.com/cemu) - Wii U Emulator. 
+* [CEMU](https://www.patreon.com/cemu) - Wii U emulator. 
 * [Dwarf Fortress](https://www.patreon.com/bay12games) - Roguelike game. 
 * [Citybound](https://www.patreon.com/citybound) - City building game.
 * [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 * [Sol Prime](https://www.patreon.com/DigitalEmpireDevelopment) - Space exploration game. 
 * [Dark Flame](https://www.patreon.com/BorishDugdum) - 2D Action RPG. 
 * [Launchbox](https://www.patreon.com/launchbox) - Gaming frontend. 
-* [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 Emulator.
+* [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 
 
-## People Doing Opensource Work
+## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
-* [Patrick Wardle](https://www.patreon.com/objective_see) - Objective-See, various mac security tools and articles.
+* [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 * [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 * [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
-* [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape. 
-* [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - iOS/macOS software. 
+* [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor. 
+* [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
 * [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
-* [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other linux software.
+* [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 * [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - Various gaming related projects.
-* [Ethan Lee](https://www.patreon.com/flibitijibibo) - XNA Preservation Tools and Linux/Mac Games
-* [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome Extension.
-* [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA, other software tooling.
+* [Ethan Lee](https://www.patreon.com/flibitijibibo) - XNA Preservation Tools and Linux/macOS games.
+* [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
+* [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp pachakge archive and other software tooling.
 * [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
-* [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock Controller and others. 
-* [Scarlett Clark](https://www.patreon.com/sgclark) - KDE Contributor.
+* [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
+* [Scarlett Clark](https://www.patreon.com/sgclark) - KDE contributor.
 * [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
-* [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless opensource projects.
+* [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless open source projects.
 * [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 * [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
-* [Egoist](https://www.patreon.com/egoist/overview) - Various Javascript libraries and tools.
+* [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
 * [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
-* [Ferros](https://www.patreon.com/feross) - Webtorrent, StandardJS and othe Javascript projects.
-* [Mathias Buus](https://www.patreon.com/mafintosh) - Various Javascript modules.
+* [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and othe JavaScript projects.
+* [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 * [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 
 
@@ -171,7 +171,7 @@ _Hardware-related projects and makers._
 * [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
 * [Jantje](https://www.patreon.com/jantje) - Sloeber plugin and Arduino videos.
 * [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
-* [Espruino](https://www.patreon.com/espruino) - Javascript interpreter for microcontrollers.
+* [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 * [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 * [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 
