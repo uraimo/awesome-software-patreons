@@ -129,7 +129,7 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and othe JavaScript projects.
 * [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 * [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
-
+* [Johann-S](https://www.patreon.com/jservoire) - Bootstrap javascript developer and create various plugins and projects
 
 ## Other kinds of content
 _Articles, videos, podcasts, etc..._
