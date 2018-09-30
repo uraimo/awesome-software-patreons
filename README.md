@@ -58,6 +58,8 @@ _Projects released with an open source license._
 * [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
 * [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 * [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
+* [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
+* [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 
 ### Libraries 
 _Libraries and frameworks._
