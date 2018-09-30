@@ -59,8 +59,7 @@ _Projects released with an open source license._
 * [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 * [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 * [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
-* [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
-* [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
+* [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player
 
 ### Libraries 
 _Libraries and frameworks._
@@ -73,6 +72,7 @@ _Libraries and frameworks._
 * [Yii framework](https://www.patreon.com/samdark) - PHP framework.
 * [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 * [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
+* [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 
 ### Operating Systems
 _Operating Systems and Linux distributions._
