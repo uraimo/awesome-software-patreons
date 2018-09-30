@@ -60,6 +60,7 @@ _Projects released with an open source license._
 * [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 * [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 * [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
+* [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 
 ### Libraries 
 _Libraries and frameworks._
