@@ -165,6 +165,7 @@ _Articles, videos, podcasts, etc..._
 * [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 * [The Elixir Fountain](https://www.patreon.com/elixirfountain) - Elixir news. 
 * [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
+* [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
 
 ### Newsletters
 
