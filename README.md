@@ -131,6 +131,7 @@ _Developers contributing to multiple projects that ask to support their work._
 * [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 * [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 * [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
+* [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 * [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 
 
