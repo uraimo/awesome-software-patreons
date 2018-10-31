@@ -89,7 +89,6 @@ _Operating Systems and Linux distributions._
 _Bots!_
 
 - [Harubot](https://www.patreon.com/HaruBot) - Tabletop games-related Discord bot. 
-- [Botwinder](https://www.patreon.com/Botwinder) - Discord administrative bot. 
 
 ### Games
 _Games and game-related projects._
