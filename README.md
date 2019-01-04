@@ -60,6 +60,7 @@ _Projects released with an open source license._
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
+- [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 
 ### Libraries 
 _Libraries and frameworks._
