@@ -127,12 +127,13 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
-- [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and othe JavaScript projects.
+- [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
+- [Drew DeVault](https://www.patreon.com/sircmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 
 
 ## Other kinds of content
