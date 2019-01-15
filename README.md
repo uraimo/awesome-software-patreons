@@ -28,16 +28,13 @@ _Projects released with an open source license._
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement. 
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
-- [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
-- [GIMP](https://www.patreon.com/pippin) - Øyvind Kolås, lead developer of the GIMP graphics editor. 
+- [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.  
 - [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
 - [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool. 
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator. 
-- [Mastodon](https://www.patreon.com/mastodon) - Federated social network server. 
-- [FreeCAD](https://www.patreon.com/yorikvanhavre) - Yorik van Havre, FreeCAD contributor. 
-- [PulseAudio](https://www.patreon.com/tanuk) - Tanu Kaskinen, PulseAudio audio editor lead developer. 
+- [Mastodon](https://www.patreon.com/mastodon) - Federated social network server.  
 - [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
@@ -107,6 +104,9 @@ _Games and game-related projects._
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
+- [Tanu Kaskinen](https://www.patreon.com/tanuk) - PulseAudio sound server contributor. 
+- [Yorik van Havre](https://www.patreon.com/yorikvanhavre) - FreeCAD contributor.
+- [Øyvind Kolås](https://www.patreon.com/pippin) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
