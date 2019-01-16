@@ -58,6 +58,13 @@ _Projects released with an open source license._
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
+- [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
+- [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
+- [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
+- [MuseScore](https://www.patreon.com/musescore) - Music notation software.
+- [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
+- [Synfig](https://www.patreon.com/synfig) - 2D animation software.
+- [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 
 ### Libraries 
 _Libraries and frameworks._
@@ -71,6 +78,7 @@ _Libraries and frameworks._
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 - [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
+- [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 
 ### Operating Systems
 _Operating Systems and Linux distributions._
@@ -82,6 +90,10 @@ _Operating Systems and Linux distributions._
 - [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant. 
 - [Solus](https://www.patreon.com/solus) - Linux distribution. 
 - [Void Linux](https://www.patreon.com/xtraeme) - Linux distribution.
+- [Ubuntu Touch](https://www.patreon.com/ubports) - Touch-friendly mobile version of Ubuntu.
+- [Antergos](https://www.patreon.com/antergos) - Linux distribution.
+- [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
+- [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
 
 ### Bots
 _Bots!_
@@ -134,6 +146,19 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Drew DeVault](https://www.patreon.com/sircmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
+- [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
+- [Sam Hewitt](https://www.patreon.com/snwh) - Open source designer.
+- [Kurt Kremitzki](https://www.patreon.com/kkremitzki) - FreeCAD contributor and Debian packager.
+- [Nate Graham](https://www.patreon.com/ngraham) - KDE contributor.
+- [Jehan Pagès](https://www.patreon.com/zemarmot) - GIMP contributor.
+- [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
+- [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
+- [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
+- [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
+- [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
+- [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
+- [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
+- [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 
 
 ## Other kinds of content
