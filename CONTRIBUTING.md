@@ -12,7 +12,7 @@ When adding a new Patreon account, please make sure that:
 **Right Category**
 * Add the project to the right category (for people doing generic opensource work on multiple projects use the specific category) or create a new one if you feel it's needed. 
 * If a project contains custom hardware or the individual develops its own hardware in addition to software, add it to the hardware category.
-* New links are always added at the end of their category.
+* The list of links follows the alphabetical order, insert your new item in the right position.
 
 **Funding Types**
 * Alternatives to Patreon, that provide similar *recurring payment schemes*, are accepted (Opencollective, Liberapay, Flattr, Podia, Drip, etc...).
