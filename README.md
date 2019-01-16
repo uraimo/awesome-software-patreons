@@ -103,13 +103,9 @@ _Bots!_
 ### Games
 _Games and game-related projects._
 
-- [CEMU](https://www.patreon.com/cemu) - Wii U emulator. 
-- [Dwarf Fortress](https://www.patreon.com/bay12games) - Roguelike game. 
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
-- [Sol Prime](https://www.patreon.com/DigitalEmpireDevelopment) - Space exploration game. 
 - [Dark Flame](https://www.patreon.com/BorishDugdum) - 2D Action RPG. 
-- [Launchbox](https://www.patreon.com/launchbox) - Gaming frontend. 
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 
 
