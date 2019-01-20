@@ -8,7 +8,7 @@ Help individual programmers or open source projects funding the development of y
 
 - [Open Source Projects](#open-source-projects)
   - [Libraries](#libraries) 
-  - [Operating Systems](#operating-system)
+  - [Operating Systems](#operating-systems)
   - [Bots](#bots)
   - [Games](#games)
 - [People Doing Open Source Work](#people-doing-open-source-work)
@@ -25,8 +25,10 @@ Help individual programmers or open source projects funding the development of y
 ## Open Source Projects
 _Projects released with an open source license._
 
+- [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
-- [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem. 
+- [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
+- [Blender](https://fund.blender.org/) - 3D creation suite.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
 - [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
@@ -34,6 +36,7 @@ _Projects released with an open source license._
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Flarum](https://www.patreon.com/flarum) - Forum platform.
+- [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.  
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
@@ -47,6 +50,7 @@ _Projects released with an open source license._
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [OMP](https://www.patreon.com/openmusicplayer) - Music player.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
+- [OfBorg](https://www.patreon.com/ofborg) - Tools for testing NixOS.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
@@ -113,12 +117,13 @@ _Games and game-related projects._
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
+- [Alyssa Ross](https://liberapay.com/alyssa/) - Doing FOSS graphics driver work and contributions to NixOS and several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
-- [Drew DeVault](https://www.patreon.com/sircmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
+- [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
@@ -126,12 +131,11 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
-- [Jehan Pagès](https://www.patreon.com/zemarmot) - GIMP contributor.
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
-- [Kurt Kremitzki](https://www.patreon.com/kkremitzki) - FreeCAD contributor and Debian packager.
+- [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 - [Nate Graham](https://www.patreon.com/ngraham) - KDE contributor.
@@ -150,11 +154,11 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
 - [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 - [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - Various gaming related projects.
-- [Tanu Kaskinen](https://www.patreon.com/tanuk) - PulseAudio sound server contributor. 
+- [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) - PulseAudio sound server contributor. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor. 
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
-- [Yorik van Havre](https://www.patreon.com/yorikvanhavre) - FreeCAD contributor.
+- [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
 - [Øyvind Kolås](https://www.patreon.com/pippin) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
 
 
@@ -199,6 +203,7 @@ _Articles, videos, podcasts, etc..._
 _Developers creating art projects and contributing to art-related open source tools and libraries._
 
 - [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC. 
+- [ZeMarmot](https://www.patreon.com/zemarmot), [#2](https://www.tipeee.com/zemarmot), [#3](https://liberapay.com/ZeMarmot/) - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.
 
 ## Hardware related
 _Hardware-related projects and makers._
