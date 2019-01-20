@@ -128,6 +128,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
+- [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
 - [Ethan Lee](https://www.patreon.com/flibitijibibo) - XNA Preservation Tools and Linux/macOS games.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
