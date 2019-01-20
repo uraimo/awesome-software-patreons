@@ -170,6 +170,7 @@ _Articles, videos, podcasts, etc..._
 
 - [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids. 
+- [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 - [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
 - [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
