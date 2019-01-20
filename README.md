@@ -9,7 +9,6 @@ Help individual programmers or open source projects funding the development of y
 - [Open Source Projects](#open-source-projects)
   - [Libraries](#libraries) 
   - [Operating Systems](#operating-systems)
-  - [Bots](#bots)
   - [Games](#games)
 - [People Doing Open Source Work](#people-doing-open-source-work)
 - [Other Kinds of Content](#other-kinds-of-content)
@@ -100,10 +99,6 @@ _Operating Systems and Linux distributions._
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports) - Touch-friendly mobile version of Ubuntu.
 
-### Bots
-_Bots!_
-
-- [Harubot](https://www.patreon.com/HaruBot) - Tabletop games-related Discord bot. 
 
 ### Games
 _Games and game-related projects._
