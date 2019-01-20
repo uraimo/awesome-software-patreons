@@ -17,6 +17,7 @@ Help individual programmers or open source projects funding the development of y
   - [Videos](#videos)
   - [Podcasts](#podcasta)
   - [Newsletters](#newsletters)
+- [Open Source Art](#open-source-art)
 - [Hardware related](#hardware-related)
 
 
@@ -193,6 +194,11 @@ _Articles, videos, podcasts, etc..._
 
 - [iOS Goodies](https://www.patreon.com/iosgoodies) - iOS newsletter. 
 
+
+## Open Source Art
+_Developers creating art projects and contributing to art-related open source tools and libraries._
+
+- [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC. 
 
 ## Hardware related
 _Hardware-related projects and makers._
