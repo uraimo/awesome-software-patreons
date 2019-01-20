@@ -64,6 +64,7 @@ _Projects released with an open source license._
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
+- [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
 - [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
