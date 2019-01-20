@@ -7,6 +7,7 @@ When adding a new Patreon account, please make sure that:
 **Elegibility**
 * The project or the individual developer is still active (at least a consistent update in the last three months).
 * For individuals claiming major contributions to a well known project, verify that they are actually who they say they are (i.e. check that this is in fact their patreon, check their twitter account, verify their contribution history, etc...).
+* When multiple patreon/funding options are available, list them following this template: `- [Main Patreon](main_link), [#2](other_link), [#3](other_link) - Description`.
 * If you want to add your own patreon, don't worry, go ahead, this list has been built for you.
 
 **Right Category**
