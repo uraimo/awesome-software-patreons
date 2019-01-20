@@ -98,7 +98,6 @@ _Operating Systems and Linux distributions._
 - [Solus](https://www.patreon.com/solus) - Linux distribution. 
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports) - Touch-friendly mobile version of Ubuntu.
-- [Void Linux](https://www.patreon.com/xtraeme) - Linux distribution.
 
 ### Bots
 _Bots!_
