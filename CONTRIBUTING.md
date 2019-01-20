@@ -16,7 +16,7 @@ When adding a new Patreon account, please make sure that:
 
 **Funding Types**
 * Alternatives to Patreon, that provide similar *recurring payment schemes*, are accepted (Opencollective, Liberapay, Flattr, Podia, Drip, etc...).
-* Paypal donation links are sometimes tollerated for bigger projects.
+* Paypal donation links are sometimes tolerated for bigger projects.
 
 
 Thank you for contributing to this list.
