@@ -43,7 +43,8 @@ _Projects released with an open source license._
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
 - [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool. 
 - [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
-- [Mastodon](https://www.patreon.com/mastodon) - Federated social network server.  
+- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
+- [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 - [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
@@ -106,7 +107,9 @@ _Games and game-related projects._
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Dark Flame](https://www.patreon.com/BorishDugdum) - 2D Action RPG. 
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
+- [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
+- [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 
 
 ## People Doing Open Source Work
