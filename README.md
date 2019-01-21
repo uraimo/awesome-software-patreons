@@ -34,7 +34,7 @@ _Projects released with an open source license._
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
-- [Flarum](https://www.patreon.com/flarum) - Forum platform.
+- [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.  
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
@@ -48,16 +48,18 @@ _Projects released with an open source license._
 - [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 - [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
+- [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [OMP](https://www.patreon.com/openmusicplayer) - Music player.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [OfBorg](https://www.patreon.com/ofborg) - Tools for testing NixOS.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
-- [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
-- [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Parinfer](https://www.patreon.com/shaunlebron) - Clojure editor plugin.
+- [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
+- [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
+- [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform. 
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
@@ -71,6 +73,8 @@ _Projects released with an open source license._
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
+- [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
+- [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 
 ### Libraries 
 _Libraries and frameworks._
@@ -81,7 +85,8 @@ _Libraries and frameworks._
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
-- [Musl libc](https://www.patreon.com/musl) - The Musl libc project. 
+- [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
+- [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
 - [Zappa](https://www.patreon.com/zappa) - A server-less Python framework. 
@@ -120,6 +125,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
+- [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
@@ -154,7 +160,8 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 - [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - Various gaming related projects.
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) - PulseAudio sound server contributor. 
-- [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor. 
+- [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
+- [Toby Zerner](https://www.patreon.com/tobyzerner) - Flarum contributor.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
