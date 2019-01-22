@@ -24,6 +24,7 @@ Help individual programmers or open source projects funding the development of y
 ## Open Source Projects
 _Projects released with an open source license._
 
+- [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
@@ -41,7 +42,8 @@ _Projects released with an open source license._
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement. 
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
-- [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool. 
+- [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
+- [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
@@ -136,6 +138,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
+- [JeanHeyd Meneide](https://www.patreon.com/thephd) - Creates C++ libraries and standards proposals.
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
