@@ -155,7 +155,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Scarlett Clark](https://www.patreon.com/sgclark) - KDE contributor.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless open source projects.
-- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp pachakge archive and other software tooling.
+- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
 - [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 - [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - Various gaming related projects.
