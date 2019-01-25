@@ -14,7 +14,7 @@ Help individual programmers or open source projects funding the development of y
 - [Other Kinds of Content](#other-kinds-of-content)
   - [Articles and Tutorials](#articles-and-tutorials)
   - [Videos](#videos)
-  - [Podcasts](#podcasta)
+  - [Podcasts](#podcasts)
   - [Newsletters](#newsletters)
 - [Open Source Art](#open-source-art)
 - [Hardware related](#hardware-related)
@@ -198,6 +198,7 @@ _Articles, videos, podcasts, etc..._
 ### Podcasts
 
 - [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
+- [Destination Linux](https://www.patreon.com/destinationlinux) - Linux discussion and news related podcast.
 - [Fatal Error](https://www.patreon.com/fatalerror) - Programming.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 - [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
@@ -205,6 +206,7 @@ _Articles, videos, podcasts, etc..._
 - [The Debug Log](https://www.patreon.com/thedebuglog) - Game development. 
 - [The Development Hell Podcast](https://www.patreon.com/devhell) - Web programming. 
 - [The Elixir Fountain](https://www.patreon.com/elixirfountain) - Elixir news. 
+- [This Week in Linux](https://www.patreon.com/tuxdigital) - Linux News Podcast, 2-3 times more topics per episode than other podcasts.
 
 ### Newsletters
 
