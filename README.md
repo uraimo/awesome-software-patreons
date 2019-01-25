@@ -122,7 +122,7 @@ _Games and game-related projects._
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
-- [Alyssa Ross](https://liberapay.com/alyssa/) - Doing FOSS graphics driver work and contributions to NixOS and several other projects.
+- [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
