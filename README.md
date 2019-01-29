@@ -69,7 +69,8 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
-- [Termux](https://www.patreon.com/termux) - Android terminal emulator. 
+- [Termux](https://www.patreon.com/termux) - Android terminal emulator.
+- [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
 - [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
@@ -105,7 +106,7 @@ _Operating Systems and Linux distributions._
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 - [Solus](https://www.patreon.com/solus) - Linux distribution. 
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
-- [Ubuntu Touch](https://www.patreon.com/ubports) - Touch-friendly mobile version of Ubuntu.
+- [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
 
 
 ### Games
@@ -122,10 +123,12 @@ _Games and game-related projects._
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
+- [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
+- [Colby Pike](https://www.patreon.com/vector_of_bool) - Maintains CMake Tools for Visual Studio Code, creates video tutorials.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
@@ -146,7 +149,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
-- [Nate Graham](https://www.patreon.com/ngraham) - KDE contributor.
+- [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
