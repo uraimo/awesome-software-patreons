@@ -191,6 +191,7 @@ _Articles, videos, podcasts, etc..._
 
 - [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
 - [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
+- [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, Devops, and Electronics Videos.
 - [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and General Programming videos.
 - [JustForFunc](https://www.patreon.com/justforfunc) - Go tutorials.
 - [LiveOverflow](https://www.patreon.com/liveoverflow) - IT Security videos.
