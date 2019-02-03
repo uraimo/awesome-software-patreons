@@ -191,10 +191,11 @@ _Articles, videos, podcasts, etc..._
 
 - [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
 - [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
-- [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, Devops, and Electronics Videos.
-- [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and General Programming videos.
+- [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, devops, and electronics videos.
+- [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 - [JustForFunc](https://www.patreon.com/justforfunc) - Go tutorials.
-- [LiveOverflow](https://www.patreon.com/liveoverflow) - IT Security videos.
+- [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
+- [Siraj Raval](https://www.patreon.com/sirajraval) - AI/Machine learning education videos
 - [The Coding Train](https://www.patreon.com/codingtrain) - Programming tutorials.
 - [ThreatWire](https://www.patreon.com/ThreatWire) - Hak5 security show.
 - [Zer0Mem0ry](https://www.patreon.com/Zer0Mem0ry) - Programming and security videos.
