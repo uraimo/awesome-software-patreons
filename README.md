@@ -197,6 +197,7 @@ _Articles, videos, podcasts, etc..._
 - [The Coding Train](https://www.patreon.com/codingtrain) - Programming tutorials.
 - [ThreatWire](https://www.patreon.com/ThreatWire) - Hak5 security show.
 - [Zer0Mem0ry](https://www.patreon.com/Zer0Mem0ry) - Programming and security videos.
+- [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, Devops, and Electronics Videos
 
 ### Podcasts
 
