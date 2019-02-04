@@ -34,6 +34,7 @@ _Projects released with an open source license._
 - [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
+- [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
@@ -113,6 +114,7 @@ _Operating Systems and Linux distributions._
 _Games and game-related projects._
 
 - [Citybound](https://www.patreon.com/citybound) - City building game.
+- [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
 - [Dark Flame](https://www.patreon.com/BorishDugdum) - 2D Action RPG. 
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
@@ -157,6 +159,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
+- [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 - [Sam Hewitt](https://www.patreon.com/snwh) - Open source designer.
 - [Scarlett Clark](https://www.patreon.com/sgclark) - KDE contributor.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
