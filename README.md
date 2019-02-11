@@ -25,6 +25,7 @@ Help individual programmers or open source projects funding the development of y
 _Projects released with an open source license._
 
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
+- [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
@@ -52,10 +53,11 @@ _Projects released with an open source license._
 - [Monkey 2](https://www.patreon.com/monkey2) - Monkey 2 programming language. 
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
-- [OMP](https://www.patreon.com/openmusicplayer) - Music player.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [OfBorg](https://www.patreon.com/ofborg) - Tools for testing NixOS.
+- [OMP](https://www.patreon.com/openmusicplayer) - Music player.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
+- [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - Tools for building information modeling.
 - [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
@@ -70,6 +72,7 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
+- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
@@ -128,6 +131,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
+- [Andrea Ferrero](https://www.patreon.com/andreaferrero) - Developer of PhotoFlow image editor, maintains various Appimage packages.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - Maintains CMake Tools for Visual Studio Code, creates video tutorials.
@@ -157,6 +161,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
+- [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
