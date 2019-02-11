@@ -72,6 +72,7 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
+- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
