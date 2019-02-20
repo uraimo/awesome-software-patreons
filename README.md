@@ -15,7 +15,6 @@ Help individual programmers or open source projects funding the development of y
   - [Articles and Tutorials](#articles-and-tutorials)
   - [Videos](#videos)
   - [Podcasts](#podcasts)
-  - [Newsletters](#newsletters)
 - [Open Source Art](#open-source-art)
 - [Hardware related](#hardware-related)
 
@@ -220,10 +219,6 @@ _Articles, videos, podcasts, etc..._
 - [The Development Hell Podcast](https://www.patreon.com/devhell) - Web programming. 
 - [The Elixir Fountain](https://www.patreon.com/elixirfountain) - Elixir news. 
 - [This Week in Linux](https://www.patreon.com/tuxdigital) - Linux News Podcast, 2-3 times more topics per episode than other podcasts.
-
-### Newsletters
-
-- [iOS Goodies](https://www.patreon.com/iosgoodies) - iOS newsletter. 
 
 
 ## Open Source Art
