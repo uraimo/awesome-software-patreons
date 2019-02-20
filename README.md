@@ -155,6 +155,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
+- [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
