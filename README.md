@@ -134,6 +134,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
+- [Dragan Djuric](https://www.patreon.com/draganrocks) - Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
