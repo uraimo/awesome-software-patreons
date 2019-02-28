@@ -23,6 +23,7 @@ Help individual programmers or open source projects funding the development of y
 ## Open Source Projects
 _Projects released with an open source license._
 
+- [Akira](https://www.patreon.com/akiraux) - Linux application for UI and UX design.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
 - [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
@@ -44,12 +45,15 @@ _Projects released with an open source license._
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement. 
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
 - [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
+- [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
+- [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
+- [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [OfBorg](https://www.patreon.com/ofborg) - Tools for testing NixOS.
@@ -62,6 +66,7 @@ _Projects released with an open source license._
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 - [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 - [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
+- [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed) - Federated image sharing powered by the ActivityPub protocol.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform. 
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
@@ -147,6 +152,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
+- [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
@@ -157,6 +163,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
+- [Philip Guo](https://www.patreon.com/pgbovine) - Python Tutor and pgbovine.net (articles/podcasts/vlogs).
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 - [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
@@ -188,6 +195,7 @@ _Articles, videos, podcasts, etc..._
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids. 
 - [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 - [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
+- [Kyle Simpson](https://www.patreon.com/getify) - Author of the "You Don't Know JS" book series. Doing articles, podcasts and OSS contributions.
 - [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
 - [Modocache](https://www.patreon.com/modocache) - LLVM/Swift related articles. 
