@@ -202,6 +202,7 @@ _Articles, videos, podcasts, etc..._
 
 ### Videos
 
+- [Arxiv Insights](https://www.patreon.com/ArxivInsights) - Educational videos on machine learning & AI.
 - [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
 - [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, devops, and electronics videos.
