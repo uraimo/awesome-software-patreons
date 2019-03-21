@@ -165,6 +165,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 - [Philip Guo](https://www.patreon.com/pgbovine) - Python Tutor and pgbovine.net (articles/podcasts/vlogs).
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
+- [Raph Levien](https://www.patreon.com/raphlinus) - Xi editor and other Rust projects.
 - [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
