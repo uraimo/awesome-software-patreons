@@ -135,6 +135,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) - Developer of PhotoFlow image editor, maintains various Appimage packages.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
+- [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - Maintains CMake Tools for Visual Studio Code, creates video tutorials.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
