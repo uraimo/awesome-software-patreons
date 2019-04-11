@@ -209,6 +209,7 @@ _Articles, videos, podcasts, etc..._
 - [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - Programming, devops, and electronics videos.
 - [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
+- [Joel Yliluoma](https://www.patreon.com/Bisqwit), [#2](https://liberapay.com/Bisqwit), [#3](https://steadyhq.com/en/bisqwit) - Programming videos.
 - [JustForFunc](https://www.patreon.com/justforfunc) - Go tutorials.
 - [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 - [The Coding Train](https://www.patreon.com/codingtrain) - Programming tutorials.
