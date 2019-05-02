@@ -220,6 +220,7 @@ _Articles, videos, podcasts, etc..._
 
 - [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 - [Destination Linux](https://www.patreon.com/destinationlinux) - Linux discussion and news related podcast.
+- [Future of Coding](https://www.patreon.com/stevekrouse) - Future of Coding is a community, podcast, and research project organized by Steve Krouse.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 - [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
 - [Software Defined Talk](https://www.patreon.com/sdt) - Enterprise software. 
