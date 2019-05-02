@@ -80,6 +80,7 @@ _Projects released with an open source license._
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
 - [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
+- [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - V is a statically typed compiled programming language similar to Go and influenced by Oberon, Rust, Swift.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
