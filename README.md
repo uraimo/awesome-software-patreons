@@ -69,7 +69,6 @@ _Projects released with an open source license._
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
-- [phpMyAdmin](https://liberapay.com/phpMyAdmin/) - A web interface for MySQL and MariaDB
 - [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 - [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
 - [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed) - Federated image sharing powered by the ActivityPub protocol.
@@ -171,6 +170,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 - [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
+- [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
