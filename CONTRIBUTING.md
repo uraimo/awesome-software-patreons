@@ -4,7 +4,9 @@ Follow the generic guidelines for contributions to awesome lists described [here
 
 When adding a new Patreon account:
 
-**Elegibility**
+### Elegibility
+*(Some of these only apply to Software projects and not to the "Other kinds of content" section)*
+
 * The project or the individual developer must still be active (at least a consistent update in the last three months).
 * For individuals claiming major contributions to a well known project, verify that they are actually who they say they are (i.e. check that this is in fact their patreon, check their twitter account, verify their contribution history, etc...).
 * When multiple patreon/funding options are available, list them following this template: `- [Main Patreon](main_link), [#2](other_link), [#3](other_link) - Description`.
@@ -14,12 +16,14 @@ When adding a new Patreon account:
 * Your project should be usable by your users and contributors from the point of view of clearly stated scope, carefully crafted and tested install instruction and usage description. Projects that are half-done, that don't clearly state what the project does or don't care about people actually using it will not be accepted. *Show that you care, don't just dump code somewhere and call it open source.*
 * This list sole aim is to help software developers and their projects with their funding campaigns. People developing actual software, not planning about developing software or selling some grand vision for software that will never materialize. As said above, if you are asking for monetary contributions make a case for it through the software you already shipped in a usable form.
 
-**Right Category**
+### Right Category
+
 * Add the project to the right category (for people doing generic opensource work on multiple projects use the specific category) or create a new one if you feel it's needed. 
 * If a project contains custom hardware or the individual develops its own hardware in addition to software, add it to the hardware category.
 * The list of links follows the alphabetical order, insert your new item in the right position.
 
-**Funding Types**
+### Funding Types
+
 * Alternatives to Patreon, that provide similar *recurring payment schemes*, are accepted (Opencollective, Liberapay, Flattr, Podia, Drip, etc...).
 * Paypal donation links are sometimes tolerated for bigger projects.
 
