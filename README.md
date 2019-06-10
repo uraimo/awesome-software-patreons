@@ -43,8 +43,9 @@ _Projects released with an open source license._
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.  
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
-- [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker. 
-- [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement. 
+- [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
+- [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
+- [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 - [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
