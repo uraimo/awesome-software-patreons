@@ -101,6 +101,7 @@ _Libraries and frameworks._
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 - [Flare3D](https://www.patreon.com/arieln) - JavaScript 3D engine.
 - [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
+- [Jam.py](https://www.patreon.com/jampyapp) - Python Web framework.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
