@@ -114,7 +114,6 @@ _Libraries and frameworks._
 ### Operating Systems
 _Operating Systems and Linux distributions._
 
-- [Antergos](https://www.patreon.com/antergos) - Linux distribution.
 - [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant. 
 - [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
 - [LineageOS](https://www.paypal.me/LineageOS) - Fork of CyanogenMod. 
@@ -149,6 +148,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager
 - [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects
+- [byuu](https://www.patreon.com/byuu) - Emulators & game preservation.
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - Maintains CMake Tools for Visual Studio Code, creates video tutorials.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
