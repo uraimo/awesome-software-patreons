@@ -40,7 +40,8 @@ _Projects released with an open source license._
 - [Duplicati](https://opencollective.com/duplicati) - Backup client
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
-- [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine.  
+- [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
+- [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
@@ -133,6 +134,7 @@ _Games and game-related projects._
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
+- [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 
