@@ -122,7 +122,6 @@ _Operating Systems and Linux distributions._
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 - [Serenity OS](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
-- [Solus](https://www.patreon.com/solus) - Linux distribution. 
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
 
@@ -151,7 +150,6 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager
 - [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects
 - [byuu](https://www.patreon.com/byuu) - Emulators & game preservation.
-- [Colby Pike](https://www.patreon.com/vector_of_bool) - Maintains CMake Tools for Visual Studio Code, creates video tutorials.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
@@ -173,7 +171,6 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
-- [Mathias Buus](https://www.patreon.com/mafintosh) - Various JavaScript modules.
 - [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
 - [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
@@ -191,12 +188,10 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Sam Hewitt](https://www.patreon.com/snwh) - Open source designer.
 - [Scarlett Clark](https://www.patreon.com/sgclark) - KDE contributor.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
-- [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - Various gaming related projects.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless open source projects.
 - [skypjack](https://www.patreon.com/skypjack) - C++ libraries such as uvw and EnTT
 - [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
-- [Steven Van Impe](https://www.patreon.com/svanimpe) - Author, editor and contributor on various Swift projects. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) - Crossbeam for Rust
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) - PulseAudio sound server contributor. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
@@ -260,7 +255,6 @@ _Hardware-related projects and makers._
 - [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 - [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
-- [Jantje](https://www.patreon.com/jantje) - Sloeber plugin and Arduino videos.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
