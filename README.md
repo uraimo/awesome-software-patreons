@@ -115,7 +115,8 @@ _Libraries and frameworks._
 ### Operating Systems
 _Operating Systems and Linux distributions._
 
-- [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant. 
+- [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
+- [FreeDOS](https://www.patreon.com/freedos) - MS-DOS compatible operating system.
 - [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
 - [LineageOS](https://www.paypal.me/LineageOS) - Fork of CyanogenMod. 
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
