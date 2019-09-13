@@ -123,6 +123,7 @@ _Operating Systems and Linux distributions._
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 - [Serenity OS](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
+- [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
 
@@ -178,6 +179,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
+- [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 - [Philip Guo](https://www.patreon.com/pgbovine) - Python Tutor and pgbovine.net (articles/podcasts/vlogs).
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
