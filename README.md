@@ -48,6 +48,7 @@ _Projects released with an open source license._
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 - [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
+- [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone
