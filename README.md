@@ -47,7 +47,7 @@ _Projects released with an open source license._
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
-- [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
+- [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
@@ -155,10 +155,11 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager
 - [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects
 - [byuu](https://www.patreon.com/byuu) - Emulators & game preservation.
+- [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) - Conversations Jabber client.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) - ElementaryOS contributor, Torrential, Clipped.
-- [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
+- [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) - Working on tooling for the Go programming language.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) - Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
@@ -170,6 +171,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
+- [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) - Raneto, Vue.js libraries and more.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) - Projects in the IndieWeb sphere, Koype and contributions to other open source projects.
 - [James 'Purpleidea'](https://github.com/users/purpleidea/sponsorship) - mgmt config, articles and more.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - Creates C++ libraries and standards proposals.
@@ -188,6 +190,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
+- [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) - Various Common Lisp libraries.
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
 - [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
