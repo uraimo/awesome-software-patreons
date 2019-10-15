@@ -1,8 +1,10 @@
 # Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
-> A curated list of awesome programmers and software-related Patreon accounts.
+> A curated list of awesome programmers and software projects you can support!
 
-Help individual programmers or open source projects funding the development of your favorite software subscribing to their Patreon accounts. A tangible way to give back to the open source community.
+Help individual programmers or open source projects funding the development of your favorite software sponsoring them via Github, subscribing to their Patreon accounts or using other forms of sponsorship. 
+
+A tangible way to give back to the open source community!
 
 ### Contents
 
