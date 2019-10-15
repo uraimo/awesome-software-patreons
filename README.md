@@ -47,7 +47,7 @@ _Projects released with an open source license._
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
-- [Kismet](https://www.patreon.com/kismetwireless) - Kismet wireless tool.
+- [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
@@ -67,7 +67,8 @@ _Projects released with an open source license._
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - Tools for building information modeling.
-- [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine
+- [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
+- [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
 - [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
@@ -94,6 +95,7 @@ _Projects released with an open source license._
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
+- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity
 
@@ -153,35 +155,48 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager
 - [Attogram Project](https://www.patreon.com/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects
 - [byuu](https://www.patreon.com/byuu) - Emulators & game preservation.
+- [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) - Conversations Jabber client.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
-- [Dominik Honnef](https://www.patreon.com/dominikh) - Working on tooling for the Go programming language.
+- [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) - ElementaryOS contributor, Torrential, Clipped.
+- [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) - Working on tooling for the Go programming language.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) - Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
 - [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
+- [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SLD2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
+- [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
+- [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) - Raneto, Vue.js libraries and more.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) - Projects in the IndieWeb sphere, Koype and contributions to other open source projects.
+- [James 'Purpleidea'](https://github.com/users/purpleidea/sponsorship) - mgmt config, articles and more.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - Creates C++ libraries and standards proposals.
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
+- [Khoa Pham](https://github.com/users/onmyway133/sponsorship) - A moltitude of libraries, applications and articles about iOS/Cocoa,
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
+- [Matt Lewis](https://github.com/users/mattlewis92/sponsorship) - Angular-calendar and other angular components.
+- [Matthieu Napoli](https://github.com/users/mnapoli/sponsorship) - Bref, PHP-DI and other PHP libraries.
+- [Max Bridgland](https://github.com/users/M4cs/sponsorship) - Various pentesting frameworks and tools.
 - [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
 - [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
+- [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) - Various Common Lisp libraries.
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
+- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) - Debian packager.
 - [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
+- [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 - [Philip Guo](https://www.patreon.com/pgbovine) - Python Tutor and pgbovine.net (articles/podcasts/vlogs).
 - [Pierre Krieger](https://www.patreon.com/tomaka) - Various Rust libraries.
 - [Raph Levien](https://www.patreon.com/raphlinus) - Xi editor and other Rust projects.
@@ -201,6 +216,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
+- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintaner of Webpack.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) - Flarum contributor.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
