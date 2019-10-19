@@ -113,6 +113,7 @@ _Libraries and frameworks._
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
+- [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) - Server-side Swift framework.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
 - [Zappa](https://www.patreon.com/zappa) - A server-less Python framework. 
@@ -161,6 +162,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 - [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) - ElementaryOS contributor, Torrential, Clipped.
+- [Dimitri Fontaine](https://github.com/sponsors/dimitri) - Various contributions to the PostgreSQL ecosystem (pgloader, pg_auto_failover), Emacs libraries (el-get), author.
 - [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) - Working on tooling for the Go programming language.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) - Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
@@ -170,6 +172,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
+- [Felipe Lima](https://github.com/sponsors/felipecsl) - Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.
 - [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
@@ -181,9 +184,11 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Johann-S](https://www.patreon.com/jservoire) - Bootstrap JavaScript developer and various plugins and projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
+- [Kévin Dunglas](https://github.com/sponsors/dunglas) - API-Platform, Vulcain, Mercure and Symphony contributions.
 - [Khoa Pham](https://github.com/users/onmyway133/sponsorship) - A moltitude of libraries, applications and articles about iOS/Cocoa,
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
+- [Lars Moelleken](https://github.com/sponsors/voku) - Various PHP libraries and OSS contributions.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
 - [Matt Lewis](https://github.com/users/mattlewis92/sponsorship) - Angular-calendar and other angular components.
 - [Matthieu Napoli](https://github.com/users/mnapoli/sponsorship) - Bref, PHP-DI and other PHP libraries.
@@ -191,7 +196,8 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Max Howell](https://www.patreon.com/mxcl) - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.
 - [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 - [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
-- [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others. 
+- [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
+- [Nick Sweeting](https://github.com/sponsors/pirate) - ArchiveBox and OSS contributions but also articles and documentation.
 - [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) - Various Common Lisp libraries.
 - [Nils Maier](https://www.patreon.com/nmaier) - Download Them All! Firefox and Chrome extension.
 - [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
@@ -207,6 +213,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 - [Sam Hewitt](https://www.patreon.com/snwh) - Open source designer.
+- [Sanjay Madan](https://paypal.me/mowgliiapps), [#2](https://cash.me/$Mowglii) - Mowglii apps, author of Itsycal and Snk.
 - [Scarlett Clark](https://www.patreon.com/sgclark) - KDE contributor.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - Countless open source projects.
