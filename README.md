@@ -1,4 +1,4 @@
-# Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
+# Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?color=%2377dddd&style=flat-square)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
 > A curated list of awesome programmers and software projects you can support!
 
