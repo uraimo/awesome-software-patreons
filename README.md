@@ -128,7 +128,7 @@ _Operating Systems and Linux distributions._
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution. 
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
-- [Serenity OS](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
+- [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
