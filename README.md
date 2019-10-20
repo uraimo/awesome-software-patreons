@@ -186,7 +186,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp and mny other Javascript projects.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.
-- [Kévin Dunglas](https://github.com/sponsors/dunglas) - API-Platform, Vulcain, Mercure and Symphony contributions.
+- [Kévin Dunglas](https://github.com/sponsors/dunglas) - API Platform, Vulcain, Mercure and Symfony contributions.
 - [Khoa Pham](https://github.com/users/onmyway133/sponsorship) - A multitude of libraries, applications and articles about iOS/Cocoa,
 - [Kozec](https://www.patreon.com/kozec) - Syncthing-GTK and SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) - FreeCAD contributor and Debian packager.
