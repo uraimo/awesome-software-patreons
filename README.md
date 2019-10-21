@@ -57,7 +57,6 @@ _Projects released with an open source license._
 - [Machine Labs](https://www.patreon.com/machinelabs) - Machine learning platform.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
-- [Milton Paint](https://www.patreon.com/serge_rgb) - Drawing application. 
 - [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
