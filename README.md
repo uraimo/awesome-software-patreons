@@ -76,6 +76,7 @@ _Projects released with an open source license._
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 - [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
 - [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
+- [Pica Pica Messenger](https://www.patreon.com/picapicamessenger) - Decentralized secure instant messaging software.
 - [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform. 
