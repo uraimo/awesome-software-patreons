@@ -84,7 +84,7 @@ _Projects released with an open source license._
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
-- [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool. 
+- [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
@@ -113,6 +113,7 @@ _Libraries and frameworks._
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
+- [stdlib](https://www.patreon.com/athan) - Standard library for JavaScript and Node.js with an emphasis on scientific computing.
 - [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) - Server-side Swift framework.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
