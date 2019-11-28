@@ -175,7 +175,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Felipe Lima](https://github.com/sponsors/felipecsl) - Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.
-- [Ferros](https://www.patreon.com/feross) - WebTorrent, StandardJS and other JavaScript projects.
+- [Feross Aboukhadijeh](https://github.com/sponsors/feross) - WebTorrent, StandardJS, and other JavaScript projects.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
 - [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) - Raneto, Vue.js libraries and more.
