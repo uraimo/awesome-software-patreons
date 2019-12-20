@@ -41,7 +41,7 @@ _Projects released with an open source license._
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Duplicati](https://opencollective.com/duplicati) - Backup client.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
-- [FreeCAD](https://salt.bountysource.com/teams/freecad) - Parametric 3D modeler made primarily to design real-life objects of any size.
+- [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
