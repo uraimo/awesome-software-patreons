@@ -78,6 +78,7 @@ _Projects released with an open source license._
 - [PHPUnit](https://www.patreon.com/s_bergmann) - PHPUnit and related projects.
 - [Pica Pica Messenger](https://www.patreon.com/picapicamessenger), [#2](https://picapica.im) - Decentralized secure instant messaging software.
 - [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
+- [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 - [Prismo](https://www.patreon.com/mxbx), [#2](https://liberapay.com/mxbx/) - ActivityPub-based link aggregation software.
