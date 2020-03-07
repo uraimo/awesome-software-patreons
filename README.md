@@ -42,6 +42,7 @@ _Projects released with an open source license._
 - [Duplicati](https://opencollective.com/duplicati) - Backup client.
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
+- [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
@@ -126,9 +127,10 @@ _Operating Systems and Linux distributions._
 - [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
 - [FreeDOS](https://www.patreon.com/freedos) - MS-DOS compatible operating system.
 - [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
-- [LineageOS](https://www.paypal.me/LineageOS) - Fork of CyanogenMod. 
+- [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) - Fork of CyanogenMod. 
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution.
+- [Qubes OS](https://opencollective.com/qubes-os) - A reasonably secure operating system.
 - [ReactOS](https://liberapay.com/ReactOS/) - A free Windows-compatible Operating System
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
@@ -140,6 +142,7 @@ _Operating Systems and Linux distributions._
 ### Games
 _Games and game-related projects._
 
+- [Battle for Wesnoth](https://liberapay.com/Wesnoth) - Turn-based strategy game.
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
