@@ -50,6 +50,7 @@ _Projects released with an open source license._
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
+- [JHipster](https://opencollective.com/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
