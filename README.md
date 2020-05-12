@@ -151,6 +151,7 @@ _Games and game-related projects._
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
+- [vvctre](https://www.patreon.com/vvctre) - Nintendo 3DS emulator.
 
 
 ## People Doing Open Source Work
