@@ -106,6 +106,7 @@ _Projects released with an open source license._
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity.
+- [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
 
 ### Libraries 
 _Libraries and frameworks._
