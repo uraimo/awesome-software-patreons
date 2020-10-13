@@ -161,7 +161,7 @@ _Games and game-related projects._
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
 
-- [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other tradin related projects.
+- [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other trading related projects.
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) - Open source software enthusiast.
