@@ -243,7 +243,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
 - [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 - [Timothée Giet](https://www.patreon.com/animtim) - GCompris contributor.
-- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintaner of Webpack.
+- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintainer of Webpack.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) - Flarum contributor.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) - FreeCAD contributor.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
