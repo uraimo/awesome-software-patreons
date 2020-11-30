@@ -119,7 +119,7 @@ _Libraries and frameworks._
 - [Jam.py](https://www.patreon.com/jampyapp) - Python Web framework.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
-- [MicroG](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
+- [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
