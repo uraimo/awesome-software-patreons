@@ -27,14 +27,11 @@ _Projects released with an open source license._
 
 - [Akira](https://www.patreon.com/akiraux), [#2](https://liberapay.com/AkiraUX/) - Linux application for UI and UX design.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
-- [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
-- [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
-- [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
 - [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
@@ -46,7 +43,6 @@ _Projects released with an open source license._
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
-- [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) - An alternative web front-end to YouTube.
@@ -74,7 +70,6 @@ _Projects released with an open source license._
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
-- [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
@@ -93,7 +88,6 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
-- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - Ecommerce software. 
@@ -113,17 +107,23 @@ _Projects released with an open source license._
 ### Libraries 
 _Libraries and frameworks._
 
+- [ApexCharts](https://www.patreon.com/junedchhipa) - JavaScript charts library.
+- [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
+- [Dear ImGui](https://www.patreon.com/imgui) - Immediate Mode Graphical User interface for C++.
 - [Flare3D](https://www.patreon.com/arieln) - JavaScript 3D engine.
 - [Hapi.js](https://www.patreon.com/eranhammer) - Node.js framework.
+- [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 - [Jam.py](https://www.patreon.com/jampyapp) - Python Web framework.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 - [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
+- [OpenFL](https://www.patreon.com/openfl) - Cross-platform application framework. 
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
 - [stdlib](https://www.patreon.com/athan) - Standard library for JavaScript and Node.js with an emphasis on scientific computing.
+- [Tabulator](https://www.patreon.com/olifolkerd) - JavaScript library for building interactive tables.
 - [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) - Server-side Swift framework.
 - [Vue.js](https://www.patreon.com/evanyou) - Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) - PHP framework.
