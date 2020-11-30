@@ -104,9 +104,11 @@ _Projects released with an open source license._
 - [Vim-Go](https://www.patreon.com/fatih) - Go plugin for VIM.
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
+- [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
 - [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity.
 - [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
+
 
 ### Libraries 
 _Libraries and frameworks._
@@ -117,6 +119,7 @@ _Libraries and frameworks._
 - [Jam.py](https://www.patreon.com/jampyapp) - Python Web framework.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
+- [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
 - [Moleculer](https://www.patreon.com/moleculer) - Progressive microservices framework for Node.js.
 - [Musl libc](https://www.patreon.com/musl) - The Musl libc project.
 - [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
@@ -141,6 +144,7 @@ _Operating Systems and Linux distributions._
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
+- [Ubuntu Studio](https://www.patreon.com/ubuntustudio), [#2](https://liberapay.com/ubuntustudio) - Ubuntu variant for creating audio, video, graphics etc.
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
 
 
@@ -155,6 +159,7 @@ _Games and game-related projects._
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
+- [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [vvctre](https://www.patreon.com/vvctre) - Nintendo 3DS emulator.
 
 
