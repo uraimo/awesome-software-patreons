@@ -156,7 +156,7 @@ _Games and game-related projects._
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 - [vvctre](https://www.patreon.com/vvctre) - Nintendo 3DS emulator.
-
+- [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
 
 ## People Doing Open Source Work
 _Developers contributing to multiple projects that ask to support their work._
