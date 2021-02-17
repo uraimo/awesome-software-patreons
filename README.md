@@ -27,6 +27,7 @@ _Projects released with an open source license._
 
 - [Akira](https://www.patreon.com/akiraux), [#2](https://liberapay.com/AkiraUX/) - Linux application for UI and UX design.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
+- [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite.
