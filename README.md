@@ -63,6 +63,7 @@ _Projects released with an open source license._
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
+- [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
@@ -251,7 +252,6 @@ _Articles, videos, podcasts, etc…_
 - [Kyle Simpson](https://www.patreon.com/getify) - Author of the "You Don't Know JS" book series. Doing articles, podcasts and OSS contributions.
 - [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
-- [Modocache](https://www.patreon.com/modocache) - LLVM/Swift related articles. 
 
 ### Videos
 
