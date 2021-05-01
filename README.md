@@ -31,6 +31,7 @@ _Projects released with an open source license._
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite.
+- [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
@@ -97,6 +98,7 @@ _Projects released with an open source license._
 - [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
 - [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity.
+- [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
 - [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
 
 
@@ -163,6 +165,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost) and contributions to several other projects.
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) - Developer of PhotoFlow image editor, maintains various Appimage packages.
+- [Andreas Heinisch](https://www.patreon.com/user?u=51471923) - LibreOffice developer.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) - LibreOffice designer.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager.
@@ -184,6 +187,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
 - [Felipe Lima](https://github.com/sponsors/felipecsl) - Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.
 - [Feross Aboukhadijeh](https://github.com/sponsors/feross) - WebTorrent, StandardJS, and other JavaScript projects.
+- [Flammie](https://www.patreon.com/flammie), [#2](https://liberapay.com/Flammie) - Apertium, linguistic tools for minority languages.
 - [Franck Nijhof](https://www.patreon.com/frenck) - Creates Home Assistant add-ons and helps out on the main project.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) - Dhall language, Nix and Haskell educational projects and Haskell libraries and tool. 
 - [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) - Raneto, Vue.js libraries and more.
@@ -220,6 +224,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) - Various iOS libraries and projects.
 - [Raph Levien](https://github.com/sponsors/raphlinus) - druid and other Rust projects.
 - [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
+- [René Rebe](https://www.patreon.com/user?u=9504919) - T2 System Development Environment.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - Open source tools and games.
 - [Rob Landley](https://www.patreon.com/landley) - Working on Toybox, mkroot and various other projects.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
