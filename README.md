@@ -43,12 +43,14 @@ _Projects released with an open source license._
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
+- [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
+- [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
 - [JHipster](https://opencollective.com/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
@@ -69,6 +71,7 @@ _Projects released with an open source license._
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
+- [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
@@ -128,11 +131,14 @@ _Libraries and frameworks._
 ### Operating Systems
 _Operating Systems and Linux distributions._
 
+- [/e/](https://www.patreon.com/eelo) - Privacy-focused mobile OS.
 - [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
 - [FreeDOS](https://www.patreon.com/freedos) - MS-DOS compatible operating system.
 - [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
+- [GrapheneOS](https://github.com/sponsors/thestinger) - A privacy and security focused mobile OS with Android app compatibility.
 - [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) - Fork of CyanogenMod. 
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
+- [Mobian](https://liberapay.com/mobian/) - Debian for mobile.
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution.
 - [Qubes OS](https://opencollective.com/qubes-os) - A reasonably secure operating system.
 - [ReactOS](https://liberapay.com/ReactOS/) - A free Windows-compatible Operating System
