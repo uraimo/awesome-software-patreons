@@ -156,6 +156,7 @@ _Games and game-related projects._
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - Turn-based strategy game.
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
+- [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
