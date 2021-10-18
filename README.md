@@ -68,6 +68,7 @@ _Projects released with an open source license._
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
+- [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
