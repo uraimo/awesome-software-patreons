@@ -97,6 +97,7 @@ _Projects released with an open source license._
 - [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Vim-Go](https://www.patreon.com/bhcleek) - Go plugin for VIM.
+- [Weblate](https://liberapay.com/Weblate) - Localization tool with tight version control integration.
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
@@ -146,6 +147,7 @@ _Operating Systems and Linux distributions._
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - A graphical Unix-like OS for x86, with 90s aesthetics.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
+- [Solus](https://opencollective.com/getsolus) - Linux distibution.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
 - [Ubuntu Studio](https://www.patreon.com/ubuntustudio), [#2](https://liberapay.com/ubuntustudio) - Ubuntu variant for creating audio, video, graphics etc.
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - Touch-friendly mobile version of Ubuntu.
@@ -155,6 +157,7 @@ _Operating Systems and Linux distributions._
 _Games and game-related projects._
 
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - Turn-based strategy game.
+- [Citra](https://www.patreon.com/citraemu) - Nintendo 3DS emulator.
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
 - [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
@@ -162,6 +165,7 @@ _Games and game-related projects._
 - [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
+- [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 - [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
@@ -298,6 +302,8 @@ _Hardware-related projects and makers._
 - [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 - [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
+- [GitClear](https://github.com/sponsors/gitclear) - Improved Linux support for touchpads.
+- [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Linux support for Apple Silicon Macs.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
