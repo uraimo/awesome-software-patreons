@@ -103,8 +103,8 @@ _Projects released with an open source license._
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
-- [Xfce](https://salt.bountysource.com/teams/xfce) - Desktop environment for UNIX-like operating systems.
-- [Zig](https://www.patreon.com/andrewrk) - System programming language which prioritizes robustness, optimality, and clarity.
+- [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - Desktop environment for UNIX-like operating systems.
+- [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - System programming language which prioritizes robustness, optimality, and clarity.
 - [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
 - [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
 
@@ -159,6 +159,7 @@ _Operating Systems and Linux distributions._
 _Games and game-related projects._
 
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - Turn-based strategy game.
+- [Cemu](https://www.patreon.com/cemu) - Nintendo Wii U emulator.
 - [Citra](https://www.patreon.com/citraemu) - Nintendo 3DS emulator.
 - [Citybound](https://www.patreon.com/citybound) - City building game.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
@@ -168,9 +169,9 @@ _Games and game-related projects._
 - [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 - [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
+- [Xemu](https://www.patreon.com/mborgerson) - Xbox emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 - [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
-- [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
 
 ### Open Source Art
 _Developers creating art projects and contributing to art-related open source tools and libraries._
@@ -194,6 +195,7 @@ _Hardware-related projects and makers._
 - [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
 - [GitClear](https://github.com/sponsors/gitclear) - Improved Linux support for touchpads.
+- [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett software.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
@@ -259,6 +261,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Owner of Objective-See, various macOS security tools and articles.
 - [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 - [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) - Various iOS libraries and projects.
+- [Povilas Kanapickas](https://www.patreon.com/p12tic) - X server, Buildbot CI, Barrier and many others.
 - [Raph Levien](https://github.com/sponsors/raphlinus) - druid and other Rust projects.
 - [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 - [René Rebe](https://www.patreon.com/user?u=9504919) - T2 System Development Environment.
