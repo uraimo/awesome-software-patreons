@@ -88,6 +88,7 @@ _Projects released with an open source license._
 - [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
+- [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 - [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Synfig](https://www.patreon.com/synfig) - 2D animation software.
