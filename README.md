@@ -67,6 +67,8 @@ _Projects released with an open source license._
 - [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
+- [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
+- [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
@@ -120,6 +122,7 @@ _Libraries and frameworks._
 - [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 - [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 - [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
+- [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
 - [LibGDX](https://www.patreon.com/libgdx) - Game development framework.
 - [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.
@@ -203,6 +206,7 @@ _Hardware-related projects and makers._
 - [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett software.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
+- [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
@@ -295,9 +299,11 @@ _Articles, videos, podcasts, etc…_
 ### Articles and Tutorials
 
 - [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
+- [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids. 
 - [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 - [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
+- [GamingOnLinux](https://www.patreon.com/liamdawe) - articles and videos about Linux, Steam Deck, SteamOS gaming.
 - [Kyle Simpson](https://www.patreon.com/getify) - Author of the "You Don't Know JS" book series. Doing articles, podcasts and OSS contributions.
 - [Meeting C++](https://www.patreon.com/meetingcpp) - C++ articles.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ articles.
