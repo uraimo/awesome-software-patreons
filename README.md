@@ -32,6 +32,7 @@ _Projects released with an open source license._
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite.
 - [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
+- [Bottles](https://usebottles.com/funding/) - Easily manage and run Windows apps on Linux.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
 - [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
@@ -79,6 +80,7 @@ _Projects released with an open source license._
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
 - [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
+- [OptiKey](https://www.patreon.com/OptiKey), [#2](https://github.com/sponsors/JuliusSweetland) - Full computer control and speech with your eyes.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
 - [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
@@ -93,12 +95,13 @@ _Projects released with an open source license._
 - [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 - [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
+- [Sonic Pi](https://www.patreon.com/samaaron) - Code-based music creation and performance tool.
 - [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client. 
 - [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - Ecommerce software. 
-- [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
+- [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor. 
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
 - [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
@@ -149,6 +152,7 @@ _Operating Systems and Linux distributions._
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux distribution.
 - [Mobian](https://liberapay.com/mobian/) - Debian for mobile.
 - [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution.
+- [PostmarketOS](https://opencollective.com/postmarketos) - A real Linux distribution for phones.
 - [Qubes OS](https://opencollective.com/qubes-os) - A reasonably secure operating system.
 - [ReactOS](https://liberapay.com/ReactOS/) - A free Windows-compatible Operating System
 - [Redox OS](https://www.patreon.com/redox_os) - OS written in Rust.
@@ -299,7 +303,7 @@ _Articles, videos, podcasts, etc…_
 ### Articles and Tutorials
 
 - [Alecaddd](https://www.patreon.com/alecaddd) - Various programming tutorials.
-- [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux gaming news, reviews, guides.
+- [Boiling Steam](https://www.patreon.com/boiling_steam_linux), [#2](https://liberapay.com/boilingsteam/) - Linux gaming news, reviews, guides.
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - Programming tutorials for kids. 
 - [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 - [Fluent C++](https://www.patreon.com/fluentcpp) - C++ articles.
