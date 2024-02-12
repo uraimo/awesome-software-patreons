@@ -27,8 +27,6 @@ _Projects released with an open source license._
 
 - [Akira](https://www.patreon.com/akiraux), [#2](https://liberapay.com/AkiraUX/) - Linux application for UI and UX design.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - Keyboard launcher written in C++/Qt.
-- [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
-- [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite
 - [Bottles](https://usebottles.com/funding/) - Easily manage and run Windows apps on Linux.
@@ -43,22 +41,18 @@ _Projects released with an open source license._
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
-- [Invidious](https://liberapay.com/omarroth/) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 - [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
 - [JHipster](https://opencollective.com/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
-- [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
 - [LogSeq](https://opencollective.com/logseq) - Knowledge management
-- [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 - [Memcode](https://www.patreon.com/memcode) - Platform for flashcards
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
-- [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
+- [Neovim](https://opencollective.com/neovim) - Vim-fork focused on extensibility and usability.
 - [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
-- [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
 - [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
@@ -68,7 +62,7 @@ _Projects released with an open source license._
 - [OptiKey](https://www.patreon.com/OptiKey), [#2](https://github.com/sponsors/JuliusSweetland) - Full computer control and speech with your eyes.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
 - [Perkeep](https://opencollective.com/perkeep) - Personal storage system.
-- [PHPStan](https://www.patreon.com/phpstan) - PHP static analyzer.
+- [PHPStan](https://github.com/phpstan) - PHP static analyzer.
 - [PHPUnit](https://github.com/sponsors/sebastianbergmann) - PHPUnit and related projects.
 - [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 - [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
@@ -77,11 +71,11 @@ _Projects released with an open source license._
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Sonic Pi](https://www.patreon.com/samaaron) - Code-based music creation and performance tool.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
-- [Termux](https://www.patreon.com/termux) - Android terminal emulator.
+- [Termux](https://termux.dev/en/donate) - Android terminal emulator.
 - [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - Ecommerce software. 
 - [Tiled](https://www.patreon.com/bjorn), [#2](https://opencollective.com/tiled), [#3](https://liberapay.com/Tiled) - A 2D game level editor. 
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.
-- [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
+- [V Programming Language](https://www.patreon.com/vlang) - Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - Maker of the VLC video player.
 - [Vim-Go](https://www.patreon.com/bhcleek) - Go plugin for VIM.
 - [Weblate](https://liberapay.com/Weblate) - Localization tool with tight version control integration.
@@ -91,7 +85,7 @@ _Projects released with an open source license._
 - [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - System programming language which prioritizes robustness, optimality, and clarity.
 - [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
-- [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing solution & CC0 model library.
+- [Kitbashery](https://github.com/sponsors/Kitbashery) - 3D kitbashing solution & CC0 model library.
 
 ### Messaging and social media
 
@@ -113,7 +107,7 @@ _Projects released with an open source license._
 ### Libraries 
 _Libraries and frameworks._
 
-- [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
+- [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
 - [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
@@ -201,7 +195,6 @@ _Developers creating art projects and contributing to art-related open source to
 ### Hardware related
 _Hardware-related projects and makers._
 
-- [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost, Asahi) and contributions to several other projects.
 - [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
 - [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 - [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
@@ -210,7 +203,6 @@ _Hardware-related projects and makers._
 - [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett software.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
 - [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
-- [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 - [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
 - [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
@@ -317,7 +309,6 @@ _Articles, videos, podcasts, etc…_
 
 ### Videos
 
-- [CS Dojo](https://www.patreon.com/csdojo) - Programming videos.
 - [Corey Schafer](https://www.patreon.com/coreyms) - Python tutorials.
 - [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 - [Joel Yliluoma](https://www.patreon.com/Bisqwit), [#2](https://liberapay.com/Bisqwit), [#3](https://steadyhq.com/en/bisqwit) - Programming videos.
@@ -327,7 +318,6 @@ _Articles, videos, podcasts, etc…_
 
 ### Podcasts
 
-- [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 - [Destination Linux](https://www.patreon.com/destinationlinux) - Linux discussion and news related podcast.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux and news.
 - [More Than Just Code](https://www.patreon.com/mtjc) - Podcast for iOS developers.
