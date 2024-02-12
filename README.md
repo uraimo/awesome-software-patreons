@@ -31,23 +31,18 @@ _Projects released with an open source license._
 - [Armory](https://armory3d.org/fund) - 3D game engine for Blender.
 - [bcachefs](https://www.patreon.com/bcachefs) - Linux filesystem.
 - [Blender](https://fund.blender.org/) - 3D creation suite
-- [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
 - [Bottles](https://usebottles.com/funding/) - Easily manage and run Windows apps on Linux.
 - [Calibre](https://www.patreon.com/kovidgoyal) - E-books manager.
 - [Compiler Explorer](https://www.patreon.com/mattgodbolt) - Online decompiler and compiler explorer. 
-- [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Deluge](https://www.patreon.com/deluge_cas) - BitTorrent client. 
-- [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 - [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 - [Duplicati](https://opencollective.com/duplicati) - Backup client.
 - [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 - [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
-- [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 - [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - Cross-platform 2D game engine.
 - [Homebrew](https://www.patreon.com/homebrew) - Package manager for macOS.
-- [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Invidious](https://liberapay.com/omarroth/) - An alternative web front-end to YouTube.
 - [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 - [JabRef](https://liberapay.com/JabRef) - Software for bibliography management
@@ -55,17 +50,13 @@ _Projects released with an open source license._
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) - Kismet wireless tool.
 - [Laigter](https://www.patreon.com/azagaya) - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.
 - [Latte Dock](https://liberapay.com/latte-dock) - Replacement dock for Plasma desktops.
-- [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [LogSeq](https://opencollective.com/logseq) - Knowledge management
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - Cheap, easy, self-hosted clouds for everyone.
 - [Memcode](https://www.patreon.com/memcode) - Platform for flashcards
 - [MuseScore](https://www.patreon.com/musescore) - Music notation software.
-- [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [NewPipe](https://liberapay.com/TeamNewPipe) - FLOSS video player on Android for services like YouTube, Soundcloud etc.
-- [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
-- [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
 - [Olive](https://www.patreon.com/olivevideoeditor) - High quality video editing and compositing software.
 - [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - Video recording and live streaming software.
@@ -73,7 +64,6 @@ _Projects released with an open source license._
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - Tools for building information modeling.
 - [openage](https://liberapay.com/SFTtech/) - Real time strategy game engine.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - Serverless platform.
-- [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 - [OpenShot](https://www.patreon.com/openshot) - Video editor.
 - [OptiKey](https://www.patreon.com/OptiKey), [#2](https://github.com/sponsors/JuliusSweetland) - Full computer control and speech with your eyes.
 - [Paperwork](https://www.patreon.com/openpaper) - Personal document manager.
@@ -86,7 +76,6 @@ _Projects released with an open source license._
 - [Remmina](https://remmina.org/donations/) - Remote desktop client.
 - [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
 - [Sonic Pi](https://www.patreon.com/samaaron) - Code-based music creation and performance tool.
-- [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 - [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 - [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - Ecommerce software. 
@@ -107,12 +96,14 @@ _Projects released with an open source license._
 ### Messaging and social media
 
 - [BookWyrm](https://www.patreon.com/bookwyrm), [#2](https://opencollective.com/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub.
+- [Dekko Project](https://www.patreon.com/dekkoproject) - Ubuntu email client. 
 - [Flarum](https://opencollective.com/flarum/) - Forum platform.
 - [Funkwhale](https://opencollective.com/funkwhale) - A free, federated and social music server.
 - [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication. 
 - [MissKey](https://www.patreon.com/syuilo) - Federated microblogging platform.
+- [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - Free and open source Twitter client focused on privacy.
 - [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) - Federated image sharing powered by the ActivityPub protocol.
 - [postActiv](https://www.patreon.com/postActiv) - Microblogging platform.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
@@ -178,6 +169,7 @@ _Games and game-related projects._
 - [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
 - [Fheroes2](https://www.patreon.com/fheroes2) - Free Heroes of Might and Magic II engine.
 - [Heroic Games Launcher](https://www.patreon.com/heroicgameslauncher), [#2](https://github.com/sponsors/Heroic-Games-Launcher), [#3](https://ko-fi.com/heroicgames) - Open source GOG and Epic Games launcher.
+- [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&D tabletop role-playing game combat tracker.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka. 
 - [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
 - [MelonDS](https://www.patreon.com/m/Arisotura) - Nintendo DS emulator.
@@ -194,10 +186,14 @@ _Developers creating art projects and contributing to art-related open source to
 - [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) - GIMP contributor, editor of Libre Graphics World online magazine.
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) - Developer of PhotoFlow image editor, maintains various Appimage packages.
 - [Duduf](https://www.patreon.com/duduf) - Tools for animations and motion pictures production. 
+- [GIMP](https://liberapay.com/GIMP/) - GNU Image Manipulation Program.
 - [Inochi2D](https://www.patreon.com/clipsey) -  Opensource editor and libraries for realtime 2D puppet animation and rendering, e.g. VTubers.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) - Inkscape contributor.
-- [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC. 
+- [Morevna Project](https://www.patreon.com/morevna) - Various contributions to open source animation tools and animated shorts sources released under CC.
+- [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) - Lead developer of babl & GEGL libraries used in the graphics editor GIMP.
+- [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
+- [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - Working on Inkscape vector graphics editor.
 - [ZeMarmot](https://www.patreon.com/zemarmot), [#2](https://www.tipeee.com/zemarmot), [#3](https://liberapay.com/ZeMarmot/) - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.
 
@@ -207,17 +203,21 @@ _Hardware-related projects and makers._
 
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) - FOSS graphics driver work (Panfrost, Asahi) and contributions to several other projects.
 - [Damien Maguire](https://www.patreon.com/evbmw) - Electric vehicle projects.
+- [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 - [Espruino](https://www.patreon.com/espruino) - JavaScript interpreter for microcontrollers.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA and other hardware projects.
 - [GitClear](https://github.com/sponsors/gitclear) - Improved Linux support for touchpads.
 - [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett software.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi, Linux support for Apple Silicon Macs.
+- [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - Videos and hardware. 
 - [Martin Povišer](https://github.com/sponsors/povik) - Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - Windows drivers for the Sony DualShock controller and others.
+- [OctoPrint](https://www.patreon.com/foosel) - Web interface for 3D printers.
+- [OpenRGB](https://www.patreon.com/CalcProgrammer1) - RGB lighting control application.
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - Pinout diagrams for various microcontrollers.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - Retro gaming. 
-- [Pablo Dobarro](https://www.patreon.com/pablodp606) - Sculpting improvements for Blender.
+
 
 
 ## People Doing Open Source Work
