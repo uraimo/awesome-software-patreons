@@ -223,7 +223,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - Programming tutorials, games and mods.
 - [Andrius Štikonas](https://liberapay.com/stikonas) - KDE contributor, mainly KDE Partition Manager.
 - [Attogram Project](https://github.com/sponsors/attogram) - Shared Media Tagger, Open Translation Engine, and many more projects.
-- [Bailey Burnsed](https://www.patreon.com/BaileyBurnsed) - FOSS Nerd developing open source games in Godot and Rust
+- [Bailey Burnsed](https://github.com/sponsors/Burnsedia) - FOSS Nerd developing open source games in Godot and Rust
 - [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) - Conversations Jabber client.
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
@@ -234,7 +234,7 @@ _Developers contributing to multiple projects that ask to support their work._
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - sway, wlroots, sr.ht, scdoc, aerc, and more.
 - [Eevee](https://www.patreon.com/eevee) - Games, applications and articles.
 - [Egoist](https://www.patreon.com/egoist/overview) - Various JavaScript libraries and tools.
-- [Erik Moqvist](https://github.com/sponsors/eerimoq) - Moblin, iOS app for IRL streaming and many other libraries.
+- [Erik Moqvist](ttps://github.com/sponsors/eerimoq) - Moblin, iOS app for IRL streaming and many other libraries.
 - [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - Working on PyDev and related projects.
